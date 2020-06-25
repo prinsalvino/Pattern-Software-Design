@@ -1,0 +1,7 @@
+C:\Users\prins\Documents\College\Programming\Assignment\DP Test Exam\D\bin\Debug\D.exe.config
+C:\Users\prins\Documents\College\Programming\Assignment\DP Test Exam\D\bin\Debug\D.exe
+C:\Users\prins\Documents\College\Programming\Assignment\DP Test Exam\D\bin\Debug\D.pdb
+C:\Users\prins\Documents\College\Programming\Assignment\DP Test Exam\D\obj\Debug\D.csprojAssemblyReference.cache
+C:\Users\prins\Documents\College\Programming\Assignment\DP Test Exam\D\obj\Debug\D.csproj.CoreCompileInputs.cache
+C:\Users\prins\Documents\College\Programming\Assignment\DP Test Exam\D\obj\Debug\D.exe
+C:\Users\prins\Documents\College\Programming\Assignment\DP Test Exam\D\obj\Debug\D.pdb
